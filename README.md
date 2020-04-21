@@ -17,4 +17,7 @@ Ok heres how I tested:
 8. Watch result ;)
 
 
-![GitHub Logo](https://github.com/Cocotus/logger/blob/master/Debug_result.PNG)
+![GitHub Logo](https://github.com/Cocotus/flutter-web-tests-logger/blob/deal-with-flutter-web-stacktraces/itworks!.PNG)
+
+BEFORE:
+![GitHub Logo](https://github.com/Cocotus/flutter-web-tests-logger/blob/deal-with-flutter-web-stacktraces/old.PNG)
